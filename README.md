@@ -37,7 +37,11 @@ ASCII characters a-z, and when it is one of the words in the specified word
 list.
 
 
+##Compiling and Running the Program
 
+make
+
+./guess
 
 
 
